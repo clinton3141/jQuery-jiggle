@@ -14,7 +14,6 @@
 					return -number + 'px';
 				},
 				start_jiggle = function () {
-					if (!$('html').hasClass('no-csstransitions')) return;
 					var time = settings.speed;
 					if (do_jiggle)
 					{

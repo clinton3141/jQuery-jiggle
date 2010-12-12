@@ -6,4 +6,3 @@ TODO: Write documentation!
 
 ## Depends on
 * [jquery](https://github.com/jquery/jquery)
-* [Modernizr](https://github.com/Modernizr/Modernizr)
