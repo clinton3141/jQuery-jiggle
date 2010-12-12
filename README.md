@@ -1,6 +1,9 @@
-TODO: Write documentation!
+Plugin to make elements jiggle around on mouseover. It takes two settings: distance and speed (defaults are 3px and 150ms).
 
-Basic examples can be found in 'example.html'
+$("#navigation a").jiggle({distance: 2, speed: 100});
+
+TODO: Write documentation!
 
 ## Depends on
 * [jquery](https://github.com/jquery/jquery)
+* [Modernizr](https://github.com/Modernizr/Modernizr)
