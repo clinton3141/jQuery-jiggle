@@ -1,6 +1,6 @@
 (function ($) {
 	$.fn.jiggle = function (options) {
-		settings = $.extend ({
+		var settings = $.extend ({
 				speed: 150,
 				distance: 3
 			}, options);
